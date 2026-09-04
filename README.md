@@ -153,7 +153,4 @@ Credentials are only ever sent to the exact URL the monitor points at, from `POS
 - Slack / Discord webhook notifications
 - A real, globally hosted public status page
 - Checks from multiple geographic regions
-
-## License
-
-MIT — built as a portfolio project.
+  
