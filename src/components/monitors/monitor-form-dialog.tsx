@@ -26,7 +26,7 @@ const METHODS = ["GET", "POST", "PUT", "PATCH", "DELETE"] as const;
 const DEFAULT_VALUES = {
   name: "",
   url: "",
-  method: "GET" as const,
+  method: "GET" as (typeof METHODS)[number],
   timeout: "10",
   expectedStatusCode: "200",
   isActive: true,
