@@ -2,8 +2,6 @@
 
 A lightweight API performance monitoring dashboard built with Next.js and TypeScript. Add an endpoint, run a check, and watch uptime and latency take shape — all stored in your browser, nowhere else.
 
-![PulseCheck](https://img.shields.io/badge/status-portfolio--project-informational)
-
 ## Features
 
 - Add, edit, enable/disable, and delete API monitors
