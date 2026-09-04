@@ -51,7 +51,7 @@ function SidebarFooter() {
   return (
     <div className="mt-auto border-t border-border px-3 py-3">
       <a
-        href="https://github.com"
+        href="https://github.com/raj-se/pulsecheck"
         target="_blank"
         rel="noreferrer"
         className="flex items-center gap-2.5 rounded-md px-3 py-2 text-sm text-muted-foreground transition-colors hover:bg-accent/60 hover:text-foreground"
